@@ -1,5 +1,5 @@
 <h1 align="center"> Bendik Lambda </h1>
-<p align="center"><em>Departement Engineer @ <a href="http://www.uia.no">University of Agder</a></p>
+<p align="center"><em>Staff Engineer @ <a href="http://www.uia.no">University of Agder</a></p>
 
 
 
