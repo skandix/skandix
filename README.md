@@ -11,6 +11,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Bash       1 min           █████████████████████████   99.60 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
