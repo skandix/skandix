@@ -11,6 +11,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     2 hrs 40 mins   ████████████░░░░░░░░░░░░░   48.34 % 
+Markdown   1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+JSON       45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Bash       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Docker     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 ```
 <!--END_SECTION:waka-->
