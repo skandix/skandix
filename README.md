@@ -18,9 +18,9 @@ Bash         5 mins          █▒░░░░░░░░░░░░░░░
 Go           5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 <!--END_SECTION:waka-->
-<div align="center">
+
   <br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skandix&show_icons=true&theme=tokyonight)
 
-</div>
+
