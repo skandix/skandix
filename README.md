@@ -19,13 +19,8 @@ Go           5 mins          █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <div align="center">
-
   <br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skandix&show_icons=true&theme=tokyonight)
-
-  <br>
-  
-  ![](https://activity-graph.herokuapp.com/graph?username=skandix&theme=react-dark&area=true)
 
 </div>
