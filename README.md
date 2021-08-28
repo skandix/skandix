@@ -11,7 +11,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   3 hrs 50 mins   █████████████████████████   99.52 % 
+Markdown   6 hrs 40 mins   ███████████████████████▒░   92.77 % 
+Bash       23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+YAML       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 <!--END_SECTION:waka-->
 
