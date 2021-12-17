@@ -11,8 +11,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python     2 hrs 3 mins    ████████████████████████▒   97.23 % 
-Bash       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Python       1 hr 21 mins    ███████████████████████▒░   93.62 % 
+Smali        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
 <!--END_SECTION:waka-->
 
