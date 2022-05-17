@@ -12,7 +12,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other       29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
+Markdown     42 mins         ██████░░░░░░░░░░░░░░░░░░░   23.69 %
+Other        30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
 ```
 
 <!--END_SECTION:waka-->
