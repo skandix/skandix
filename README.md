@@ -12,9 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 4 mins    █████████░░░░░░░░░░░░░░░░   35.54 %
-Markdown     2 hrs 39 mins   ███████▓░░░░░░░░░░░░░░░░░   30.85 %
-Other        1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Markdown     3 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   38.63 %
+Python       1 hr 56 mins    ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Other        1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
 ```
 
 <!--END_SECTION:waka-->
