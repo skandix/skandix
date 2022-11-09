@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML       26 mins         ██████████████████████▓░░   90.33 %
-Svelte     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
