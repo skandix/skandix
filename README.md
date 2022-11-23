@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skandix&show_icons=true&theme=tokyonight)
+![](https://media.tenor.com/zW6Vzn0jz_gAAAAC/halt-catch-fire-hcf.gif)
